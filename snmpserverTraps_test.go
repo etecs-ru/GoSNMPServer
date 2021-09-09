@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/etecs-ru/gosnmp"
 	"github.com/pkg/errors"
 	"github.com/sirupsen/logrus"
-	"github.com/slayercat/gosnmp"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 )
